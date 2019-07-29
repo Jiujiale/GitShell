@@ -1,2 +1,0 @@
-# GitShell
-shell script 
